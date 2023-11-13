@@ -2,11 +2,11 @@ Project Title
 
 Social Analytics App
 
-Overview
+# ... Overview :
 
 The Social Analytics App is a web application designed for social analytics enthusiasts. Currently, the application focuses on user authentication, paving the way for future features related to social data analysis and insights.
 
-Technologies Used
+# ...Technologies Used
 
 Go (Golang): The primary programming language for backend development.
 Gin: A web framework for building APIs in Go.
@@ -14,13 +14,13 @@ JWT: JSON Web Tokens for secure user authentication.
 Bcrypt: Used for password hashing.
 MySQL: The database management system.
 
-Features
+# ...Features :
 
 User Registration
 User Login
 JWT Authentication
 
-Getting Started
+# ...Getting Started :
 
 1.Clone the Repository:
 
@@ -43,9 +43,9 @@ Update the .env file with your database configurations.
 go run main.go
 The server should be running at http://localhost:3030 (or the port specified in your .env file).
 
-Roadmap
+# ...Roadmap
 
-Short-Term Goals:
+# ...Short-Term Goals:
 1.Enhance User Authentication:
 
    Implement email verification.
@@ -56,7 +56,7 @@ Short-Term Goals:
    Enable users to update their profiles.
 
 
-Long-Term Goals:
+# ...Long-Term Goals:
 
 1.Social Data Analysis:
 
@@ -72,7 +72,7 @@ Long-Term Goals:
    Enhance the user interface for a smoother experience.
 
 
-Contributing:
+# ...Contributing:
 
 If you'd like to contribute to the project, please follow the standard GitHub workflow:
 
@@ -82,5 +82,5 @@ Make your changes and commit them (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/new-feature).
 Create a new Pull Request.
 
-License:
+# ...License:
 This project is licensed under the MIT License.
